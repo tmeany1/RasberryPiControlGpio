@@ -1,3 +1,7 @@
+#
+# Run the code as sudo python relay_control.py 
+#
+#
 import RPi.GPIO as GPIO
 from time import sleep
 
