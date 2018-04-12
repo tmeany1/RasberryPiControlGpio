@@ -12,3 +12,5 @@ At https://makezine.com/projects/tutorial-raspberry-pi-gpio-pins-and-python/ it 
 sudo python
 import RPi.GPIO as GPIO
 GPIO.VERSION
+
+For a pinout see https://pinout.xyz/ 
